@@ -1,0 +1,48 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [ENA_OBMB01000001_OBMB01000001.1]
+	Loaded [ENA_OBMB01000002_OBMB01000002.1]
+	Total Regions: 2
+	Total Region Length: 2610531
+Analyzing contigs...
+CONTIG: tig00000001 (2574017bp)
+Best alignment score: 2563035.7 (LEN: 2563292, IDY: 99.99), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 7849 41174 | 2574017 2540699 | 33326 33319 | 99.81 | ENA_OBMB01000002_OBMB01000002.1 tig00000001
+		One align captures most of this contig: 1436 2564933 | 1 2563292 | 2563498 2563292 | 99.99 | ENA_OBMB01000001_OBMB01000001.1 tig00000001
+
+Analyzing coverage...
+Writing SNPs into /domus/h1/linna/GenomeAnalysis/code/quast_results/results_2021_04_15_12_03_44/contigs_reports/minimap_output/lferriphilum-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /domus/h1/linna/GenomeAnalysis/code/quast_results/results_2021_04_15_12_03_44/contigs_reports/minimap_output/lferriphilum-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2563498
+
+	SNPs: 0
+	Insertions: 13
+	Deletions: 219
+

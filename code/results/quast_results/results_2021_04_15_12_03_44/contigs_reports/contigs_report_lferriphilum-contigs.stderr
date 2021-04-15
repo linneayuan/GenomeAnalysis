@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.097*1.02] collected minimizers
+[M::mm_idx_gen::0.124*1.09] sorted minimizers
+[M::main::0.124*1.09] loaded/built the index for 2 target sequence(s)
+[M::mm_mapopt_update::0.130*1.09] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 2
+[M::mm_idx_stat::0.135*1.09] distinct minimizers: 252759 (97.77% are singletons); average occurrences: 1.031; average spacing: 10.016
+[M::worker_pipeline::1.044*1.00] mapped 1 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 2 /domus/h1/linna/GenomeAnalysis/code/quast_results/results_2021_04_15_12_03_44/quast_corrected_input/OBMB01.fasta /domus/h1/linna/GenomeAnalysis/code/quast_results/results_2021_04_15_12_03_44/quast_corrected_input/lferriphilum_contigs.fasta
+[M::main] Real time: 1.051 sec; CPU: 1.053 sec
