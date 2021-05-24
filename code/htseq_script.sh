@@ -19,10 +19,6 @@ do
 
 alignment=results/bwa_results/${prefix}.sorted.bam
 
-# samtools sort -n $alignment -o ${prefix}.reallysorted.bam
-
-# samtools index ${prefix}.reallysorted.bam
-
 samtools index -@ 2 $alignment
 
 htseq-count -f bam -r pos -t CDS -i ID -s reverse $alignment $GFF > ${prefix}.txt
