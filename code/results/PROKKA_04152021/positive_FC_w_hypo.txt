@@ -1,0 +1,7 @@
+tig00000001	Prodigal:002006	CDS	398472	400115	.	+	0	ID=NDDJBEEH_00398;eC_number=1.8.7.1;Name=sir;db_xref=COG:COG0155;gene=sir;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WJ03;locus_tag=NDDJBEEH_00398;product=Sulfite reductase [ferredoxin]
+tig00000001	Prodigal:002006	CDS	1869578	1871311	.	+	0	ID=NDDJBEEH_01947;eC_number=1.8.99.2;Name=aprA;gene=aprA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:T2G6Z9;locus_tag=NDDJBEEH_01947;product=Adenylylsulfate reductase subunit alpha
+tig00000001	Prodigal:002006	CDS	1871295	1871639	.	+	0	ID=NDDJBEEH_01948;Name=aprB;gene=aprB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:T2G899;locus_tag=NDDJBEEH_01948;product=Adenylylsulfate reductase subunit beta
+tig00000001	Prodigal:002006	CDS	2453790	2454200	.	-	0	ID=NDDJBEEH_02494;inference=ab initio prediction:Prodigal:002006;locus_tag=NDDJBEEH_02494;product=hypothetical protein
+tig00000001	Prodigal:002006	CDS	2454435	2454821	.	-	0	ID=NDDJBEEH_02496;inference=ab initio prediction:Prodigal:002006;locus_tag=NDDJBEEH_02496;product=hypothetical protein
+tig00000001	Prodigal:002006	CDS	2454880	2455326	.	-	0	ID=NDDJBEEH_02497;inference=ab initio prediction:Prodigal:002006;locus_tag=NDDJBEEH_02497;product=hypothetical protein
+tig00000001	Prodigal:002006	CDS	2455343	2455669	.	-	0	ID=NDDJBEEH_02498;inference=ab initio prediction:Prodigal:002006;locus_tag=NDDJBEEH_02498;product=hypothetical protein

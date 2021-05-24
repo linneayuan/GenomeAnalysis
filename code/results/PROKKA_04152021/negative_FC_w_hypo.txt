@@ -1,0 +1,6 @@
+tig00000001	Prodigal:002006	CDS	1672528	1673049	.	+	0	ID=NDDJBEEH_01727;inference=ab initio prediction:Prodigal:002006;locus_tag=NDDJBEEH_01727;product=hypothetical protein
+tig00000001	Prodigal:002006	CDS	1996180	1997010	.	-	0	ID=NDDJBEEH_02063;inference=ab initio prediction:Prodigal:002006;locus_tag=NDDJBEEH_02063;product=hypothetical protein
+tig00000001	Prodigal:002006	CDS	2409842	2412085	.	-	0	ID=NDDJBEEH_02454;Name=cusA_1;db_xref=COG:COG3696;gene=cusA_1;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P38054;locus_tag=NDDJBEEH_02454;product=Cation efflux system protein CusA
+tig00000001	Prodigal:002006	CDS	2412058	2413023	.	-	0	ID=NDDJBEEH_02455;Name=cusA_2;db_xref=COG:COG3696;gene=cusA_2;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P38054;locus_tag=NDDJBEEH_02455;product=Cation efflux system protein CusA
+tig00000001	Prodigal:002006	CDS	2413020	2414279	.	-	0	ID=NDDJBEEH_02456;Name=cusB_3;gene=cusB_3;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P77239;locus_tag=NDDJBEEH_02456;product=Cation efflux system protein CusB
+tig00000001	Prodigal:002006	CDS	2414269	2415711	.	-	0	ID=NDDJBEEH_02457;inference=ab initio prediction:Prodigal:002006;locus_tag=NDDJBEEH_02457;product=hypothetical protein
