@@ -25,4 +25,7 @@ summary(res)
 
 plotMA(res)
 
-
+library(ReportingTools)
+report <- HTMLReport(shortName = 'differential_expression_analysis', title = 'Differential expression analysis continous vs batch', reportDirectory = '.')
+publish(dds, report, pvalueCutoff=0.05, make.plots = TRUE, factor = sampleTable$condition, reportDir = ".")
+finish(report)
