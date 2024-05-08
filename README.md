@@ -1,2 +1,4 @@
-# GenomeAnalysis
-For a project in the course Genome Analysis.
+# Lifestyle of the Acidophilic Mineral Oxidizing Model Species _Leptospirillum ferriphilum_
+This repository is for a project in the course Genome Analysis. This project aims to reproduce the study [Multi-omics Reveals the Lifestyle of the Acidophilic, Mineral-Oxidizing Model Species Leptospirillum ferriphilum](https://pubmed-ncbi-nlm-nih-gov.ezproxy.its.uu.se/29150517/) where the genome of _Leptospirillum ferriphilum_ is assembled.
+
+The project was executed in two different parts: a genomic analysis where the DNA reads were assembled, evaluated, and annotated, and a transcriptomic analysis where RNA reads were pre-processed and evaluated, and a differential expression analysis was performed. Most of the analyses were run using the command line and batch jobs on the high-performance computer at Uppsala university, UPPMAX. For a detailed description of this project, its method and results, please see the repository Wiki. 
